@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "adem",
+      "password": "1234",
+      "name": "Adem Enes"
+    },
+    {
+      "id": 2,
+      "username": "goktug",
+      "password": "5678",
+      "name": "Göktuğ"
+    },
+    {
+      "username": "deneme",
+      "password": "1",
+      "id": 3
+    },
+    {
+      "username": "taha",
+      "password": "1243",
+      "id": 4
+    },
+    {
+      "username": "ademm",
+      "password": "12",
+      "id": 5
+    },
+    {
+      "username": "yviivkkkb",
+      "password": "123456",
+      "id": 6
+    }
+  ],
+  "tasks": [
+    {
+      "text": "dasddas",
+      "day": "dasdad",
+      "reminder": false,
+      "id": 71393
+    },
+    {
+      "text": "goktug",
+      "day": "1234",
+      "reminder": false,
+      "id": 71394
+    },
+    {
+      "text": "adwd",
+      "day": "dqwdwq",
+      "reminder": false,
+      "userId": "1",
+      "id": 71395
+    },
+    {
+      "text": "dqwdqwqdq",
+      "day": "qwdqw",
+      "reminder": false,
+      "userId": "1",
+      "id": 71396
+    }
+  ]
+}
